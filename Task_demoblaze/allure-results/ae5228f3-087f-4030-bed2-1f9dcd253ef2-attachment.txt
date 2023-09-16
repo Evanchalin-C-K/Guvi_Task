@@ -1,0 +1,7 @@
+
+Home page loading
+True
+Navigation Menu : 
+ ['Home\n(current)', 'Contact', 'About us', 'Cart', 'Log in', '', '', 'Sign up']
+Featured products : 
+ [<selenium.webdriver.remote.webelement.WebElement (session="87071003-76dc-4cc7-a59c-ee8a3bdd2da8", element="7146208e-0b10-4c9e-b5e5-62abf9ba6220")>, <selenium.webdriver.remote.webelement.WebElement (session="87071003-76dc-4cc7-a59c-ee8a3bdd2da8", element="350fbdf5-844c-4792-bd4c-315d260a5272")>, <selenium.webdriver.remote.webelement.WebElement (session="87071003-76dc-4cc7-a59c-ee8a3bdd2da8", element="10852a21-6572-4985-ae5f-fb0ced8a5c7f")>]
